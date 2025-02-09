@@ -25,3 +25,16 @@ This project visualizes Amazon’s data with dynamic dashboards created using **
 1️⃣ **Clone the Repository:**  
    ```bash
    git clone https://github.com/ayushi88907/Amazon_Dashboard_using_PowerBI.git
+
+---
+
+## 📸 Dashboard Screenshots  
+
+### 📊 Sales Insights  
+![Screenshot 1](https://github.com/ayushi88907/Amazon_Dashboard_using_PowerBI/raw/main/Screenshot%202025-02-09%20122530.png)  
+
+### 📦 Order Analysis  
+![Screenshot 2](https://github.com/ayushi88907/Amazon_Dashboard_using_PowerBI/raw/main/Screenshot%202025-02-09%20122543.png)  
+
+### 📈 Profit Margin Insights  
+![Screenshot 3](https://github.com/ayushi88907/Amazon_Dashboard_using_PowerBI/raw/main/Screenshot%202025-02-09%20122601.png)  
